@@ -1,0 +1,13 @@
+This file contains references to the literature used throughout the project.
+It will include references that are directly used, e.g. the Wikipedia page on quarternions, as well as background references, e.g. C++ tutorials.
+Notation will be the reference followed followed by a short description. They will be sepperated by a dash (-).
+References are sorted by subject.
+
+Quarternions:
+https://en.wikipedia.org/wiki/Quaternion - Heavy mathematical focus. Good as background.
+https://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation - The rotational mathematics to be implemented.
+https://mathworld.wolfram.com/Quaternion.html - Short, yet usefull, introduction to quarternions.
+http://wiki.ros.org/tf2/Tutorials/Quaternions - Example of quarternion implementation in code (C++ and Python).
+
+C:
+The C Programming Language by Kernighan and Ritchie (K&R) - Must read reference on C!!
