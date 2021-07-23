@@ -10,4 +10,4 @@ https://mathworld.wolfram.com/Quaternion.html - Short, yet usefull, introduction
 http://wiki.ros.org/tf2/Tutorials/Quaternions - Example of quarternion implementation in code (C++ and Python).
 
 C:
-The C Programming Language by Kernighan and Ritchie (K&R) - Must read reference on C!
+The C Programming Language by Kernighan and Ritchie (K&R) - Must read reference on C!!
